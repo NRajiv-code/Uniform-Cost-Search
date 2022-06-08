@@ -1,5 +1,5 @@
 Name and UTA ID of the student.
-Rajiv Ramachandra Nidumolu, UTA ID:1001866606
+Rajiv Ramachandra Nidumolu,
 
 Java
 openjdk 11.0.14.1 2022-02-08
